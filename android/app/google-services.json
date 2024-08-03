@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "990204355214",
+    "project_id": "prod-beta-a049d",
+    "storage_bucket": "prod-beta-a049d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990204355214:android:6da263820f7f8a967d5fdf",
+        "android_client_info": {
+          "package_name": "com.example.soundscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990204355214-j6ufai2o6ijvs741crqr3020m3c3cqsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soundscape",
+            "certificate_hash": "73aa0e16559669ada28cbf0310a2138aea99e999"
+          }
+        },
+        {
+          "client_id": "990204355214-hh5p6pco93as4ld5cjk8e9tia1mv99vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvGFYiIKY208qHQM79xYyiMPrk3EBzWF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990204355214-hh5p6pco93as4ld5cjk8e9tia1mv99vr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990204355214-8nsmo13lm4vbs9no1ig6hvhsn575ri88.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soundscape"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
